@@ -1,6 +1,5 @@
 # client_js
 ClientJS по Русски
-официальный репозиторий разработчика: https://github.com/jackspirou/clientjs
 ***
 новый ClientJS ()
 
